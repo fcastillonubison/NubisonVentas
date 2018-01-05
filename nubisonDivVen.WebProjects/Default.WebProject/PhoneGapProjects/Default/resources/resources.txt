@@ -1,0 +1,38 @@
+{
+	"_id": "2944478",
+	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division ventas\\nubisonDivVen.WebProjects\\Default.WebProject\\img\\130750-OSX908-212.png",
+	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
+	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
+	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
+	"_initialUxComponent": "shell",
+	"_componentLastUpdated": "07/12/2017 09:34:27 03 am",
+	"_ajaxUrl": "http://nubisonlab.cl:1580/nubisonventas/",
+	"_additionalFiles": "img\\130750-OSX908-212.png\nimg\\130750-OSX908-212.jpg\nimg\\icons8-coins-50b.png\nimg\\icons8-communication-50.png\nimg\\icons8-delivered-50.png\nimg\\icons8-info-50.png\nimg\\icons8-logout-rounded-up-50.png\nimg\\icons8-alarm-50.png\nimg\\icons8-profile-50.png\nimg\\icons8-sell-stock-50.png\nimg\\icons8-treasure-map-50.png\nimg\\icons8-add-list-50.png\nimg\\icons8-increase-50.png",
+	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
+	"_pw": "nEUmwR92tRwv6SDFKfexhg==",
+	"_token": "",
+	"timeout": {
+		"phoneGapBuild": "<default>",
+		"phoneGapBuildLogin": "<default>",
+		"getAppIcon": "<default>"
+	},
+	"apperian": {
+		"enableOptions": false,
+		"loginName": "osLnGM4pUcQ=",
+		"password": "c5JMXi9Y+Ko=",
+		"serverURL": "https://easesvc.apperian.com/ease.interface.php"
+	},
+	"backupConfigFile": true,
+	"_phonegapBuilderVersion": "1",
+	"useImageMagick": true,
+	"indexHTMLMetaTags": "",
+	"genAppZipFile": false,
+	"zipFileLocation": "",
+	"buildTarget": "Phonegap Build",
+	"cliProjectFolder": "",
+	"_androidBuildFlag": true,
+	"_iOSBuildFlag": false,
+	"_windowsBuildFlag": false,
+	"launchAppManager": true,
+	"_sqlitedbdefined": false
+}
