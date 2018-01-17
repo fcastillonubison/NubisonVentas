@@ -61,7 +61,9 @@ function _phoneGapSettings() {
         "cordova-plugin-statusbar": "npm",
         "cordova-plugin-x-toast": "npm",
         "cordova-plugin-whitelist": "npm",
-        "cordova-plugin-android-fingerprint-auth": "npm"
+        "cordova-plugin-android-fingerprint-auth": "npm",
+        "pushwoosh-pgb-plugin": "npm",
+        "https://github.com/Rohfosho/CordovaCallNumberPlugin.git": "git"
     }
 };
 }

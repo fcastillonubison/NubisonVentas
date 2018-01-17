@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.nubisonlab.nubisonventas" version="1.0.1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.nubisonlab.nubisonventas" version="1.1.2" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Ventas Nubison</name>
     <description>
         Prototipo Alpha
@@ -170,7 +170,7 @@
 	<plugin name="cordova-plugin-device" source="npm" version="1.1.7" />
 	<plugin name="cordova-plugin-file" source="npm" version="4.3.3" />
 	<plugin name="cordova-plugin-file-transfer" source="npm" version="1.5.1" />
-	<plugin name="cordova-plugin-geolocation" source="npm" version="2.4.2" />
+	<plugin name="cordova-plugin-geolocation" source="npm" version="2.4.3" />
 	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.7.2" />
 	<plugin name="cordova-plugin-network-information" source="npm" version="1.3.4" />
 	<plugin name="cordova-plugin-dialogs" source="npm" version="1.3.4" />
@@ -184,4 +184,19 @@
 	<plugin name="cordova-plugin-x-toast" source="npm" version="2.6.0" />
 	<plugin name="cordova-plugin-whitelist" source="npm" version="1.3.3" />
 	<plugin name="cordova-plugin-android-fingerprint-auth" source="npm" version="1.4.0" />
+	<platform name="ios" />
+	<plugin name="pushwoosh-pgb-plugin" source="npm" version="7.0.4" />
+
+	<gap:config-file platform="ios" parent="UIBackgroundModes" overwrite="true">
+		<array>
+			<string>location</string>
+		</array>
+	</gap:config-file>
+
+
+	<gap:config-file platform="ios" parent="NSLocationAlwaysUsageDescription">
+    	<string>This app uses location services for use with push notifications.</string>
+	</gap:config-file>
+
+	<plugin spec="https://github.com/Rohfosho/CordovaCallNumberPlugin.git" source="git" />
 </widget>
