@@ -1,11 +1,11 @@
 {
-	"_id": "2944478",
+	"_id": "2987822",
 	"_icon": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division ventas\\nubisonDivVen.WebProjects\\Default.WebProject\\img\\130750-OSX908-212.png",
 	"_ssL": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\landscapeSplashScreen.png",
 	"_ssP": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\portraitSplashScreen.png",
 	"_ssA9": "C:\\Users\\Desarrollador\\Documents\\Prototipo Nubison division Minera\\nubisonMinera.WebProjects\\Default.WebProject\\img\\9patchSplashScreen.png",
 	"_initialUxComponent": "login",
-	"_componentLastUpdated": "12/01/2018 09:38:09 71 am",
+	"_componentLastUpdated": "18/01/2018 03:57:44 44 pm",
 	"_ajaxUrl": "http://nubisonlab.cl:1580/nubisonventas/",
 	"_additionalFiles": "img\\130750-OSX908-212.png\nimg\\130750-OSX908-212.jpg\nimg\\icons8-coins-50b.png\nimg\\icons8-communication-50.png\nimg\\icons8-delivered-50.png\nimg\\icons8-info-50.png\nimg\\icons8-logout-rounded-up-50.png\nimg\\icons8-alarm-50.png\nimg\\icons8-profile-50.png\nimg\\icons8-sell-stock-50.png\nimg\\icons8-treasure-map-50.png\nimg\\icons8-add-list-50.png\nimg\\icons8-increase-50.png",
 	"_userName": "wtwx6irfQI3iOx7OvgJt1zo2UrrNaJJqmN8Feh/S5gI=",
@@ -35,7 +35,7 @@
 	"_windowsBuildFlag": false,
 	"launchAppManager": true,
 	"_sqlitedbdefined": false,
-	"enableInstantUpdate": true,
+	"enableInstantUpdate": false,
 	"instantUpdateSettingsJSON": "{\n\t\"item1\": \"item1\",\n\t\"name\": \"\",\n\t\"patchLocation\": \"AlphaSoftware\",\n\t\"storageConnectionString\": \"\",\n\t\"baseURL\": \"\",\n\t\"displayMessageAfterUpdate\": true,\n\t\"message\": \"Version {version}\",\n\t\"systemMessages\": \"Verbose\"\n}",
-	"_baseLineGuid": "8ffd402805fd4e95bb7cda0aea5b6a9b"
+	"_baseLineGuid": "eeb24decc33246158e6551428895c39f"
 }

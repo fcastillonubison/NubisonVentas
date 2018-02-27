@@ -272,7 +272,7 @@
 <securityStoreType="">
 <AlphaDAOConnectionStrings=<<%str%
 <arrVars<[1]<name="Connection1">
-<value="Encrypted:xI3OKMADTTuPlPyxbyQ2IQTJ4jwFeFXEjdTQeonsjWpr1l701h46aT4bot32gfBK5MvmuiLiZvQtR9lxvAzqsmw6jsIJ2T7tzBNpDfQd0x+9Zvon7fh55tR29X/pGcFdqLblagtkJl7luRdIA1TU3QQdQBs9SsgS0tlSuYzRYmDco1IcxzqQtcmH/TU6JwfXRlYpqvjZWQylYVhgMU/Y7/XDDaUn+Ha9">
+<value="Encrypted:xI3OKMADTTuPlPyxbyQ2IStFdzZu/CF6cj2KoIwd9WtJQfgLwzrmykbOHbxYejzRgvqEwpOpRb5w94mCv/e7EyeorUwE95/ve67RW6ISz3tqbPHekS8M/VBMKrV9LZI1oUEmYwQrMqxQqERQVeApw7MCpml93iOUEfoHq/aDsOk=">
 >
 >
 %str%>
@@ -371,6 +371,10 @@
 >
 <remoteErrorDetailShow=.F.>
 <enablePreload=.T.>
+<minidumpCleanupEnabled=.T.>
+<minidumpMaxFiles=5>
+<minidumpMaxStorageGB=10>
+<minidumpMaxAgeHours=24>
 >
 <rtClk<CheckSecurityAllowed=.F.>
 <CheckBeforePublish=.F.>
@@ -402,3 +406,4 @@
 >
 >
 >
+<activeDirectory>

@@ -6348,4 +6348,754 @@
 <target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8332\temphttp___nubisonlab_cl___1580\nubisonventas">
 <timestamp=CTODT('18/01/2018 03:32:55 84 pm')>
 >
+<[1271]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:27 48 pm')>
+>
+<[1272]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:27 61 pm')>
+>
+<[1273]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:27 83 pm')>
+>
+<[1274]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:27 95 pm')>
+>
+<[1275]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:28 87 pm')>
+>
+<[1276]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:28 98 pm')>
+>
+<[1277]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:29 70 pm')>
+>
+<[1278]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 03 pm')>
+>
+<[1279]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 38 pm')>
+>
+<[1280]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 41 pm')>
+>
+<[1281]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 42 pm')>
+>
+<[1282]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 42 pm')>
+>
+<[1283]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\130750-osx908-212.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 46 pm')>
+>
+<[1284]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-add-list-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 47 pm')>
+>
+<[1285]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-alarm-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 48 pm')>
+>
+<[1286]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-increase-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 51 pm')>
+>
+<[1287]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 53 pm')>
+>
+<[1288]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 55 pm')>
+>
+<[1289]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-profile-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 57 pm')>
+>
+<[1290]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-sell-stock-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 58 pm')>
+>
+<[1291]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-treasure-map-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 59 pm')>
+>
+<[1292]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk-mobile-analytics.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 63 pm')>
+>
+<[1293]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 84 pm')>
+>
+<[1294]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report1.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 86 pm')>
+>
+<[1295]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report2.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 87 pm')>
+>
+<[1296]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report3.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 88 pm')>
+>
+<[1297]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report4.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_13304\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:18:30 89 pm')>
+>
+<[1298]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:43 28 pm')>
+>
+<[1299]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:43 38 pm')>
+>
+<[1300]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:43 48 pm')>
+>
+<[1301]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:43 56 pm')>
+>
+<[1302]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 02 pm')>
+>
+<[1303]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 54 pm')>
+>
+<[1304]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\shell.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 56 pm')>
+>
+<[1305]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 57 pm')>
+>
+<[1306]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 58 pm')>
+>
+<[1307]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 58 pm')>
+>
+<[1308]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:44 78 pm')>
+>
+<[1309]<type="css">
+<name="alpha">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 17 pm')>
+>
+<[1310]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 37 pm')>
+>
+<[1311]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 49 pm')>
+>
+<[1312]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 50 pm')>
+>
+<[1313]<type="css">
+<name="cssicons">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 50 pm')>
+>
+<[1314]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 50 pm')>
+>
+<[1315]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 51 pm')>
+>
+<[1316]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 51 pm')>
+>
+<[1317]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 51 pm')>
+>
+<[1318]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 52 pm')>
+>
+<[1319]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 52 pm')>
+>
+<[1320]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 52 pm')>
+>
+<[1321]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-bold.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 53 pm')>
+>
+<[1322]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-bold.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 53 pm')>
+>
+<[1323]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-light.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 54 pm')>
+>
+<[1324]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-light.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 54 pm')>
+>
+<[1325]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-medium.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 54 pm')>
+>
+<[1326]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-medium.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 55 pm')>
+>
+<[1327]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-regular.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 55 pm')>
+>
+<[1328]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-regular.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 56 pm')>
+>
+<[1329]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-thin.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 56 pm')>
+>
+<[1330]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\fonts\roboto\roboto-thin.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 56 pm')>
+>
+<[1331]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\bebidas-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 57 pm')>
+>
+<[1332]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\carnes-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 57 pm')>
+>
+<[1333]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\descuentos-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 57 pm')>
+>
+<[1334]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\dulces-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 58 pm')>
+>
+<[1335]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\licores-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 58 pm')>
+>
+<[1336]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\limpieza-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 58 pm')>
+>
+<[1337]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\producto-carnes-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 59 pm')>
+>
+<[1338]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\producto-limpieza-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 59 pm')>
+>
+<[1339]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\productos-bebidas-min.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 60 pm')>
+>
+<[1340]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\productos-bebidas2-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 60 pm')>
+>
+<[1341]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\productos-dulces-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 60 pm')>
+>
+<[1342]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\productos-licores-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 61 pm')>
+>
+<[1343]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\productos-vegetales-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 61 pm')>
+>
+<[1344]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\imagenes\vegetales-min.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 61 pm')>
+>
+<[1345]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\130750-osx908-212.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 62 pm')>
+>
+<[1346]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\130750-osx908-212.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 62 pm')>
+>
+<[1347]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-add-list-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 62 pm')>
+>
+<[1348]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-alarm-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 63 pm')>
+>
+<[1349]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-coins-50b.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 63 pm')>
+>
+<[1350]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-communication-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 64 pm')>
+>
+<[1351]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-delivered-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 64 pm')>
+>
+<[1352]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-increase-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 64 pm')>
+>
+<[1353]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 65 pm')>
+>
+<[1354]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 65 pm')>
+>
+<[1355]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-profile-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 66 pm')>
+>
+<[1356]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-sell-stock-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 66 pm')>
+>
+<[1357]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-treasure-map-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 66 pm')>
+>
+<[1358]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\logo.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 67 pm')>
+>
+<[1359]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk-mobile-analytics.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 67 pm')>
+>
+<[1360]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 68 pm')>
+>
+<[1361]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\materialize.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 68 pm')>
+>
+<[1362]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 69 pm')>
+>
+<[1363]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report1.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 69 pm')>
+>
+<[1364]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report2.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 69 pm')>
+>
+<[1365]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report3.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 69 pm')>
+>
+<[1366]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report4.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_840\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('30/01/2018 03:49:46 70 pm')>
+>
+<[1367]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:57:54 50 pm')>
+>
+<[1368]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:57:54 50 pm')>
+>
+<[1369]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:57:54 51 pm')>
+>
+<[1370]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:57:54 51 pm')>
+>
+<[1371]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:57:55 46 pm')>
+>
+<[1372]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:41 00 pm')>
+>
+<[1373]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:41 80 pm')>
+>
+<[1374]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 19 pm')>
+>
+<[1375]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 60 pm')>
+>
+<[1376]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 64 pm')>
+>
+<[1377]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 65 pm')>
+>
+<[1378]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 67 pm')>
+>
+<[1379]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\130750-osx908-212.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 69 pm')>
+>
+<[1380]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-add-list-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 70 pm')>
+>
+<[1381]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-alarm-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 71 pm')>
+>
+<[1382]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-increase-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 73 pm')>
+>
+<[1383]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 74 pm')>
+>
+<[1384]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 76 pm')>
+>
+<[1385]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-profile-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 78 pm')>
+>
+<[1386]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-sell-stock-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 79 pm')>
+>
+<[1387]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-treasure-map-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 80 pm')>
+>
+<[1388]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk-mobile-analytics.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:42 85 pm')>
+>
+<[1389]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:43 04 pm')>
+>
+<[1390]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report1.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:43 06 pm')>
+>
+<[1391]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report2.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:43 08 pm')>
+>
+<[1392]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report3.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:43 09 pm')>
+>
+<[1393]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report4.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_11360\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('02/02/2018 05:41:43 10 pm')>
+>
+<[1394]<type="folder">
+<name="ExeReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 03:02:16 81 pm')>
+>
+<[1395]<type="folder">
+<name="AppDataReportStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 03:02:16 82 pm')>
+>
+<[1396]<type="folder">
+<name="ExeChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 03:02:16 82 pm')>
+>
+<[1397]<type="folder">
+<name="AppDataChartStyles">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 03:02:16 82 pm')>
+>
+<[1398]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 03:02:17 72 pm')>
+>
+<[1399]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\css\materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:01 92 am')>
+>
+<[1400]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:02 93 am')>
+>
+<[1401]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:03 37 am')>
+>
+<[1402]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 00 am')>
+>
+<[1403]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 03 am')>
+>
+<[1404]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 05 am')>
+>
+<[1405]<type="css">
+<name="materialize.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 06 am')>
+>
+<[1406]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\130750-osx908-212.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 08 am')>
+>
+<[1407]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-add-list-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 09 am')>
+>
+<[1408]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-alarm-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 10 am')>
+>
+<[1409]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-increase-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 12 am')>
+>
+<[1410]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-info-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 21 am')>
+>
+<[1411]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-logout-rounded-up-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 24 am')>
+>
+<[1412]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-profile-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 26 am')>
+>
+<[1413]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-sell-stock-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 27 am')>
+>
+<[1414]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\img\icons8-treasure-map-50.png}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 28 am')>
+>
+<[1415]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk-mobile-analytics.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 33 am')>
+>
+<[1416]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\js\aws-sdk.min.js}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 60 am')>
+>
+<[1417]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report1.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 64 am')>
+>
+<[1418]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report2.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 73 am')>
+>
+<[1419]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report3.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 76 am')>
+>
+<[1420]<type="file">
+<name="{c:\users\desarrollador\documents\prototipo nubison division ventas\nubisondivven.webprojects\default.webproject\report4.a5rpt}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_8232\temphttp___nubisonlab_cl___1580\nubisonventas">
+<timestamp=CTODT('05/02/2018 09:17:04 77 am')>
+>
 >
