@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="cl.nubisonlab.nubisonventas" version="1.1.4" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.nubisonlab.nubisonventas" version="1.1.2" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Ventas Nubison</name>
     <description>
         Prototipo Ventas Nubison
@@ -199,4 +199,8 @@
 
 	<plugin spec="https://github.com/Rohfosho/CordovaCallNumberPlugin.git" source="git" />
 	<plugin name="cordova-plugin-zip" source="npm" version="3.1.0" />
+	<feature name="debug-server" required="true" >
+		<param name="domain" value="http://192.168.100.8:8081" />
+		<param name="key" value="Ventas" />
+	</feature>
 </widget>

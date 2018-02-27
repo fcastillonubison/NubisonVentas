@@ -1,6 +1,6 @@
 function _phoneGapSettings() { 
  return {
-    "appId": "com.nubisonlab.nubisonventas",
+    "appId": "cl.nubisonlab.nubisonventas",
     "preferences": {
         "permissions": "",
         "orientation": "default",
